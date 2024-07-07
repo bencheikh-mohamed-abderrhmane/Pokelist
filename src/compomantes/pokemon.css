@@ -1,0 +1,26 @@
+.prin{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+.stat{
+ 
+  
+   color: black
+}
+.abili{
+    text-decoration: underline;
+
+}
+.imagepok{
+    width: 20%;
+    border-color: red;
+    height: 30%;
+ 
+}
+.pokename{
+    font-size: 60px;
+}
